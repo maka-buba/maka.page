@@ -4,14 +4,8 @@
       text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; }
     </style>
   </defs>
-  
-  <- npm ci --cache .npm Background -->
   <rect width="32" height="32" fill="white"/>
-  
-  <- npm ci --cache .npm Gradient circle background -->
   <circle cx="16" cy="16" r="15" fill="#2563eb" opacity="0.1"/>
   <circle cx="16" cy="16" r="14" fill="none" stroke="#2563eb" stroke-width="0.5" opacity="0.3"/>
-  
-  <- npm ci --cache .npm MB initials -->
   <text x="16" y="22" font-size="18" fill="#2563eb" text-anchor="middle" dominant-baseline="middle">MB</text>
 </svg>
